@@ -10,7 +10,7 @@ export default function Header(){
                 <div className="">
                     <button>Novo Post</button>
                     <span>img1</span>
-                    <span>img2</span>
+                    <span>img3</span>
                 </div>
             </div>
         </header>
